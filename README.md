@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anubhav-mehandru-52a3a6236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mehandruanubhav@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://anubhavmehandru.github.io/portfolio-ember-static/"><img src="https://img.shields.io/badge/Portfolio-ff5a2c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://anubhav.mehandru.com/"><img src="https://img.shields.io/badge/Portfolio-ff5a2c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
